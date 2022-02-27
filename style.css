@@ -47,6 +47,10 @@ nav {
   font-size: 2rem;
 }
 
+.cta-text h2 {
+  overflow: hidden;
+}
+
 .cta-text span {
   padding: 0rem 0.4rem;
   display: block;
